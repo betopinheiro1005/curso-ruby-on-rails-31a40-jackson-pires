@@ -1,0 +1,18 @@
+<table>
+  <thead>
+  <tr>
+    <th>Street</th>
+    <th>Zip</th>
+  </tr>
+  </thead>
+
+  <tbody>
+  <% @addresses.each do |address| %>
+    <tr>
+      <td><%= address.street %></td>
+      <td><%= address.zip %></td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>
+
