@@ -1,24 +1,29 @@
-# README
+# Curso de Ruby on Rails - aulas 31 a 40
+## Jackson Pires
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Requisitos
 
-Things you may want to cover:
+```bash
+- Ruby 2.5.1  
+- Rails 5.2.1  
+- MySQL 5.7
+```
 
-* Ruby version
+### Instalação de dependências
 
-* System dependencies
+```bash
+bundle install
+```
 
-* Configuration
+### Lista de aulas - [Videos do curso](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Aula 31 - Nitrous.IO  
+Aula 32 - Self e Monkey Patch em Ruby  
+Aula 33 - Métodos de instância x Métodos de classe  
+Aula 34 - Singleton Pattern vs Singleton Class  
+Aula 35 - Parênteses, Colchetes e Chaves no Ruby  
+Aula 36 - Criando um formulário de pesquisa  
+Aula 37 - Formulários Complexos / Nested Attributes  
+Aula 38 - Autenticação de usuários com Devise  
+Aula 39 - Usando autorização com Pundit e Devise  
+Aula 40 - Criando pesquisas com o Ransack  
